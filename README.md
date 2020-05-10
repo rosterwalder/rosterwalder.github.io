@@ -5,3 +5,5 @@
 
 
 [ralph](ralph-osterwalder.ch)
+
+![Kommentar] (Schleiereule.jpg)
