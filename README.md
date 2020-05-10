@@ -4,6 +4,6 @@
 
 
 
-[ralph](ralph-osterwalder.ch)
+![ralph](ralph-osterwalder.ch)
 
 ![Kommentar](Schleiereulen.jpg)
