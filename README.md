@@ -20,10 +20,30 @@
 
 [Ralphs Website](http://ralph-osterwalder.ch)
 
-```javascript
-function test() {
-console.log("Schau Uschy, keine Leerzeichen");
-}
-```
+<div class="handorgel">
+  <h3 class="handorgel__header">
+    <button class="handorgel__header__button">
+      Title
+    </button>
+  </h3>
+  <div class="handorgel__content" data-open>
+    <div class="handorgel__content__inner">
+      Content openened by default
+    </div>
+  </div>
+  <h3 class="handorgel__header">
+    <button class="handorgel__header__button">
+      Title 2
+    </button>
+  </h3>
+  <div class="handorgel__content">
+    <div class="handorgel__content__inner">
+      Content closed by default
+    </div>
+  </div>
+
+  ...
+
+</div>
 
 ![Kommentar](Schleiereulen.jpg)
