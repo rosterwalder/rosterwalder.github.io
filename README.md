@@ -3,7 +3,18 @@
 # CCF Test Statische Website
 ## Das ist eine geordnete Liste
 
-1. Item 12. Item 23. Item 3   * Item 3a   * Item 3
+1. Punkt 1
+2. Punkt 2
+3. Punkt 3
+   * Punkt 3a
+   * Punkt 3b
+
+## Das ist eine ungeordnete Liste
+
+* Punkt 1
+* Punkt 2
+  * Punkt 3a
+  * Punkt 3b
 
 [Ralphs Website](http://ralph-osterwalder.ch)
 
