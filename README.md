@@ -27,6 +27,6 @@
 
 ![Kommentar](Schleiereulen.jpg)
 
-*Nur für dich*
+* Zum Schluss nur für dich*
 
  :kissing_heart:
