@@ -23,6 +23,7 @@
 ```javascript
 function test() {
 console.log("Schau Uschy, keine Leerzeichen");
-}```
+}
+```
 
 ![Kommentar](Schleiereulen.jpg)
