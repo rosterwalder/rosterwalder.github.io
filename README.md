@@ -1,6 +1,6 @@
 # rosterwalder.github.io
 
-# CCF Test Statische Website
+# Test Statische Website
 ## Das ist eine geordnete Liste.
 
 1. Punkt 1
@@ -21,6 +21,9 @@
 [Ralphs Website](http://ralph-osterwalder.ch)
 
 * Zum Schluss nur für dich*
+
+:kissing_heart:
+:kissing_heart:
 
 ![Kommentar](Rose.jpg)
 
