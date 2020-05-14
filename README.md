@@ -1,6 +1,6 @@
 # rosterwalder.github.io
 
-# Test Statische Website
+# Test statische Website
 ## Das ist eine geordnete Liste.
 
 1. Punkt 1
