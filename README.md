@@ -2,6 +2,6 @@
 
 # CCF Test Statische Website
 
-[GitHub](http://github.com)
+[Ralphs Website](http://ralph-osterwalder.ch)
 
 ![Kommentar](Schleiereulen.jpg)
