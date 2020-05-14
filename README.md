@@ -23,7 +23,7 @@
 *Zum Schluss nur für dich:*
 
 :kissing_heart:
-:kissing_heart:
+
 
 ![Kommentar](Rose.jpg)
 
