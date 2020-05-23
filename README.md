@@ -20,9 +20,6 @@
 
 [Ralphs Website](http://ralph-osterwalder.ch)
 
-*Zum Schluss nur für dich:*
-
-![Kommentar](Rose.jpg)
 
 
  
